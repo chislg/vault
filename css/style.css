@@ -1,0 +1,75 @@
+body{
+    margin:0px;
+}
+.nav-bar{
+    background-color:#527F7D;
+    height:60px;
+    border-bottom: 2px solid;
+}
+.nav-item{
+    float:right;
+    list-style-type:none;
+}
+.list-item{
+    float:left;
+    padding:10px;
+}
+.color{
+    color:#C5C58D;
+}
+/*.some-text{*/
+/*    width:800px;*/
+/*    text-align: left;*/
+/*    border:2px solid;*/
+/*    float:left;*/
+/*}*/
+/*.bro{*/
+/*    width:600px;*/
+/*    float:right;*/
+/*    border:20px #295356 dashed;*/
+/*}*/
+.banner{
+    height:1100px;
+}
+.cover-pic {
+    /*text-align: center;*/
+    background-size:cover;
+    width:100%;
+    display: block;
+    height:70%;
+}
+.logo{
+    height:60px;
+    width:50px;
+}
+
+.footer{
+    background-color:#976D58;
+    height:60px;
+}
+
+.footer-section{
+    width:33%;
+    float:left;
+}
+.input{
+    display: inline;
+}
+.button{
+    height:60px;
+    width:80px;
+    background-color:teal;
+    color:fff;
+    display:inline-block;
+    float:right;
+}
+.footer-button{
+    clear:right;
+}
+/**************************************************/
+.contact-form{
+    width:400px;
+    height:600px;
+    border:7px dashed #295356;
+    
+}
